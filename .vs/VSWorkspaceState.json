@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\config",
+    "\\src\\redux",
+    "\\src\\redux\\Actions",
+    "\\src\\redux\\Reducers",
+    "\\src\\redux\\Store",
+    "\\src\\screen"
+  ],
+  "SelectedNode": "\\package.json",
+  "PreviewInSolutionExplorer": false
+}
